@@ -42,7 +42,8 @@ Use .env files and Spring's ${ENV_VAR} syntax to manage secrets.
 (Add screenshots here later!)
 
 📜 License
-This project is licensed under the MIT License — feel free to use, modify, and share.
+This project is licensed under the Apache License 2.0 — you are free to use, modify, and distribute it, provided that you preserve the original license and give proper credit.
+
 
 
 
