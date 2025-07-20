@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "name": "Launch Edge (Frontend)",
+            "request": "attach",
+            "type": "msedge",
+            "url": "http://localhost:3000", // Frontend URL
+            "webRoot": "${workspaceFolder}/src"
+        },
+        {
+            "name": "Launch Edge (Backend)",
+            "request": "attach",
+            "type": "msedge",
+            "url": "http://localhost:8080", // Backend URL
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
